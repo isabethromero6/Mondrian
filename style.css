@@ -1,0 +1,9 @@
+.container{
+    background-color: black;
+    display: grid;
+    
+}
+
+.item{
+    background-color: darkmagenta;
+}
