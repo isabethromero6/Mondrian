@@ -3,6 +3,8 @@
     display: grid;
     grid-template-columns: auto auto auto auto;
     grid-gap: 10px;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .item{
