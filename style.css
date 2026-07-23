@@ -9,9 +9,21 @@
 }
 
 .item{
-    background-color: darkmagenta;
+    background-color: rgba(196, 22, 196, 0.889);
 }
 
 .item7 {
     background-color: blue;
+}
+
+.item1 {
+
+    grid-row-start: 1;
+    grid-row-end: 3;
+    background-color: gold;
+
+}
+
+.item10 {
+    background-color: rgb(46, 242, 235);
 }
