@@ -10,10 +10,12 @@
 
 .item{
     background-color: rgba(196, 22, 196, 0.889);
+    color: white;
 }
 
 .item7 {
     background-color: blue;
+    color: pink;
 }
 
 .item1 {
@@ -26,4 +28,5 @@
 
 .item10 {
     background-color: rgb(46, 242, 235);
+    color: darkviolet;
 }
