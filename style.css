@@ -19,7 +19,9 @@
 }
 
 .item1 {
-        background-image: url(https://cdn.outsideonline.com/wp-content/uploads/2023/03/Funny_Dog_S.jpg);
+    grid-row-start: 1;
+    grid-row-end: 3;
+    background-image: url(https://cdn.outsideonline.com/wp-content/uploads/2023/03/Funny_Dog_S.jpg);
 
 
 
@@ -31,7 +33,5 @@
 }
 
 .item3 {
-     grid-row-start: 1;
-    grid-row-end: 3;
     background-color: gold;
     }
